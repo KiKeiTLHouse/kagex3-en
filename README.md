@@ -1,6 +1,6 @@
-Title: KAGEX の初期設定方法
+Title: Getting started with KAGEX
 Date: 2012/4/29
-Author: 渡邊剛
+Author: Watanabe Go.
 
 1. ベースの取得
 
