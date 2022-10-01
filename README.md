@@ -1,5 +1,7 @@
 Title: Getting started with KAGEX
+
 Date: 2012/4/29
+
 Author: Watanabe Go.
 
 1. ƒx[ƒX‚Ìæ“¾
